@@ -12,6 +12,15 @@ header {
   height: 50px;
 }
 
+.wrapper {
+   
+}
+
+nav {
+  height: 30px;
+  width: 70px;
+}
+
 .product {
   background-color: white;
   border-radius: 10px;
