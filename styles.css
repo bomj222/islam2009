@@ -2,7 +2,14 @@
   padding: 0px;
   margin: 0px;
 }
+
+body {
+  background-color: F3F3F3;
+}
+
 header {
   background-color: FF8139;
   height: 50px;
 }
+
+
