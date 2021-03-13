@@ -13,8 +13,9 @@ header {
 }
 
 .product {
-  backgroun-color: white;
+  background-color: white;
   border-radius: 10px;
   height: 150px;
+  margin: 30px;
 }
 
